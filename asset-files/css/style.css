@@ -219,42 +219,23 @@ padding: 100px 0px;
 .footer-left-content{
     max-width: 400px;
 }
-.footer-title{
-font-size: 35px;
-}
-.footer-caption{
-font-size: 18px;
-}
+.footer-title{font-size: 27px;}
+.footer-caption{font-size: 14px;color: #dddd;}
 .footer-left-content span{
-    font-size: 18px;
-
+    font-size: 12px;
+    color: #dddd;
 }
 .social-media{
     
 
 }
 .social-media span{
-    padding: 10px 10px;
-
+    padding: 0px 3px;
 }
 .footer-right-content{
 
 }
 .footer-right-title{
-    font-size: 25px;
-
-}.footer-right-content input{
-padding: 15px 20px;
-font-size: 15px;
-border-color: white;
-background-color: black;
-}
-.btn-third{
-padding:15px 30px;
-font-size:15px;
-font-weight: 400;
-border-radius: 5px;
-margin-top: 10px;
-background-color: white;
-color: #F15B22;
-}
+    font-size: 20px;
+}.footer-right-content input{padding: 11px 39px;font-size: 15px;border-color: #c5b6b6;border-style: dashed;background-color: black;}
+.btn-third{padding: 11px 43px;font-size: 18px;font-weight: 400;border-radius: 5px;margin-top: 10px;background-color: white;color: #F15B22;}
